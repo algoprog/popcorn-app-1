@@ -145,6 +145,8 @@ App.Localization.languages = {
         encoding: ['iso-8859-1']
     },
     "el": {
+        display: "Ελληνικά",
+        subtitle: true,
         encoding: ['iso-8859-7']
     },
     "en": {
